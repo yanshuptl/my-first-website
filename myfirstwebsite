@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=-, initial-scale=1.0">
+    <title>yanshu</title>
+</head>
+<body>
+    <!-- <h1>welcome to web dev 101</h1>
+    <h2>welcome to web dev 101</h2>
+    <h3> welcome to web dev 101</h3>
+    <h4>welcome to web dev 101</h4>
+    <h5>welcome to web dev 101</h5> -->
+    
+    <p>
+        introduction to web devlopment.
+        <br>
+        this is the the first session.
+    </p>
+    <img src="C:\Users\HP\Documents\Custom Office Templates\desktop-wallpaper-of-couple-cute-kiss-love-romantic-couple-kissing.jpg" stye = "width:400" alt = "hello"
+ <ul>
+    <li>first point</li>
+    <li>second point</li>
+</ul>
+
+<ol type = "i" >
+    <li>first point</li>
+    <li>second point</li>
+</ol>
+
+<a href = "https://www.linkedin.com/feed/">cleack here to linkdin</a>
+</body>
+
+</html>
